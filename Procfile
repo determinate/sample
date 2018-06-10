@@ -1,1 +1,1 @@
-web: gunicorn app:flask_reader
+web: gunicorn flask_reader:app
