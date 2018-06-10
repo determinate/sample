@@ -1,1 +1,1 @@
-worker: python flask_reader.py
+web: gunicorn app:app
