@@ -13,3 +13,4 @@ pytz==2015.7
 pyzmq==15.1.0
 SQLAlchemy==1.0.11
 gunicorn==19.7.1
+selenium
