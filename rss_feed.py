@@ -8,10 +8,11 @@ import pytz
 
 
 subscriptions = [
-	#'https://www.nur.kz/rss/yandex.rss',
-	#'http://st.zakon.kz/rss/rss_all.xml',
-	#'http://www.aif.ru/rss/news.php',
-	#'https://lenta.ru/rss/news'
+	'https://tengrinews.kz/news.rss',
+	'https://www.nur.kz/rss/yandex.rss',
+	'http://st.zakon.kz/rss/rss_all.xml',
+	'http://www.aif.ru/rss/news.php',
+	'https://lenta.ru/rss/news'
 	'https://news.mail.ru/rss',
         'https://life.ru/xml/feed.xml?hashtag=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8']
 
